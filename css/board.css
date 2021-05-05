@@ -1,0 +1,43 @@
+/* Game Board */
+
+.game-board {
+  background-color: red;
+}
+
+.p-one-board {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.p-two-board {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.board-spacing {
+  padding-top: 5% !important;
+  padding-bottom: 5% !important;
+}
+
+/* Cards */
+
+.card-slot {
+  background-color: #5a5a6a;
+  margin: .5%;
+  padding: .75% !important;
+  border: solid black 1px;
+}
+
+img {
+  margin: auto;
+}
+
+.row {
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.player {
+  text-align: center;
+}

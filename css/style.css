@@ -1,0 +1,81 @@
+body {
+  padding-top: 3%;
+  text-align: center;
+  align-content: center;
+  background-color: black !important;
+}
+
+p {
+  position: absolute;
+  text-align: center;
+  font-family: 'Stalinist One', cursive;
+  font-size: .75rem;
+  top: 0; left: 0; bottom: 8; right: 0;
+  color: #AFA26B;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+  font-family: 'Stalinist One', cursive;
+  font-weight: bold;
+  color: #1fcf80;
+  font-size: 42px !important;
+}
+
+.big-let-one {
+  font-size: 74px;
+}
+
+.big-let-two {
+  font-size: 62px;
+}
+
+
+hr {
+  height: .7px !important;
+  width: 90%;
+  background-color: #1fcf80;
+  z-index: 1;
+
+}
+
+.menu {
+  text-align: center;
+  background-color: black;
+  width: 700px !important;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border-style: solid;
+  border-width: .5px;
+  border-color: #1fcf80;
+  border-radius: 8%;
+  margin: 5% 10%;
+
+}
+
+.menu-btn {
+  color: #1fcf80;
+  margin: 5px 40px;
+  padding: 1%;
+  background-color: #000000;
+  outline-color: #1fcf80;
+  border-radius: 12%;
+  border: solid;
+  border-width: 1.5px;
+  font-family: 'Sarpanch', sans-serif;
+  width: 20em;
+}
+
+.jedi {
+  padding-top: 10%;
+  position: fixed;
+  width: 40%;
+  height: auto;
+}
+
+
+button:hover {
+  outline-color: white;
+  color: white;
+}
